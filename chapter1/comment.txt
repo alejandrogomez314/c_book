@@ -1,0 +1,6 @@
+this
+*/ comment
+
+is commnet
+*/
+hello
